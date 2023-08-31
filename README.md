@@ -1,0 +1,2 @@
+# EPL_2020-21_DataAnalysis
+The tabular dataset is a collection of English Premier League 2020-21. The dataset has all the players that played in the EPL and their standard stats such as Goals, Assists, Pass Accuracy and more.                            Perform exploratory data analysis using python to obtain valuable information from raw data.                Analyze , visualize and draw insights with Python libraries and functions such as pandas, numpy, matplotlib, seaborn. Pie Chart, Bar Graph, Box Plot etc.
